@@ -1,0 +1,22 @@
+{
+	"name": "fmentor-article-preview-plain",
+	"version": "1.0.0",
+	"description": "article preview component using plain mode",
+	"main": "index.js",
+	"scripts": {
+		"lint": "prettier --write ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-article-preview-plain.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-article-preview-plain/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-article-preview-plain#readme",
+	"devDependencies": {
+		"prettier": "^2.8.8"
+	}
+}
