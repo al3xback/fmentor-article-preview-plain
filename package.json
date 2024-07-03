@@ -1,8 +1,8 @@
 {
 	"name": "fmentor-article-preview-plain",
+	"private": true,
 	"version": "1.0.0",
-	"description": "article preview component using plain mode",
-	"main": "index.js",
+	"type": "module",
 	"scripts": {
 		"lint": "prettier --write ."
 	},
